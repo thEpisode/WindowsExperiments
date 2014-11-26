@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="WP_81_CS.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WP_81_CS"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <SolidColorBrush Color="White"/>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="494*"/>
+            <RowDefinition Height="27*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0.167">
+            <TextBlock Text="WINDOWS EXPERIMENTS" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="#FF0050EF"/>
+            <TextBlock Text="windows phone 8.1" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Foreground="#FF0050EF" FontSize="48.167"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.833,19,3.5"/>
+        <StackPanel Margin="19,1.5,0,0" Grid.Row="2" Orientation="Horizontal">
+            <Viewbox Margin="205,0,0,0">
+                <Grid>
+                    <Grid x:Name="backgroundGrid" Width="128" Height="128" Visibility="Collapsed" />
+                    <Path Data="M219.934356689453,241.978989690542L481,242.408845037222 480.93212890625,459.000001043081 220.303741455078,424.001221746206z M0.143212988972664,239.469010442495L196.473892211914,240.687668889761 196.624694824219,421.275849431753 0.150688648223877,395.529053777456z M196.564315795898,39.5171099603176L196.654830932617,219.889054387808 0.180827811360359,220.965012639761 0,64.976731389761z M480.93212890625,0L480.93212890625,217.594437688589 220.303741455078,219.602768987417 220.303741455078,36.2174464166164z" Stretch="Uniform" Fill="#FF0050EF" Width="68" Height="68" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
+                        <Path.RenderTransform>
+                            <TransformGroup>
+                                <RotateTransform Angle="0" />
+                                <ScaleTransform ScaleX="1" ScaleY="1" />
+                            </TransformGroup>
+                        </Path.RenderTransform>
+                    </Path>
+                </Grid>
+            </Viewbox>
+            <TextBlock x:Name="textBlock" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Windows Phone" Foreground="#FF0050EF" FontSize="18.667" Margin="11,3,0,3"/>
+        </StackPanel>
+    </Grid>
+</Page>

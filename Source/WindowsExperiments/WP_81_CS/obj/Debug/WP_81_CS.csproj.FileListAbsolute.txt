@@ -1,0 +1,58 @@
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\ApplicationInsights.config
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\App.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\index.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\WebView1.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\MainPage.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.xr.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.exe
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.pdb
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\resources.pri
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\AppxManifest.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.build.appxrecipe
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.winmd
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.winmd
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.pdb
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.csprojResolveAssemblyReference.cache
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\App.g.i.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\App.g.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.g.i.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.g.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.g.i.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.g.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\MainPage.g.i.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\MainPage.g.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\XamlTypeInfo.g.cs
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\App.xaml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.xaml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.xaml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\MainPage.xaml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\App.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\MainPage.xbf
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\XamlSaveStateFile.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\ApplicationInsights.config
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.exe
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.pdb
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\priconfig.xml
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\priconfig.xml.intermediate
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\layout.resfiles
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\layout.resfiles.intermediate
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\resources.resfiles
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\resources.resfiles.intermediate
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\pri.resfiles
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\pri.resfiles.intermediate
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\qualifiers.txt
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\qualifiers.txt.intermediate
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\carodriguez\documents\visual studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\ProjectArchitectures.txt
+C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\bin\Debug\UI Template\UITemplate.xbf
+C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.i.cs
+C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.cs
+C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xaml
+C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xbf
