@@ -26,7 +26,7 @@
 
         <!-- Title Panel -->
         <StackPanel Grid.Row="0" Margin="19,0,0,0.167">
-            <TextBlock Text="WINDOWS EXPERIMENTS" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="#FF0050EF"/>
+            <TextBlock Text="WINDOWS EXPERIMENTS" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="#FF1E75BB"/>
             <TextBlock Text="windows phone 8.1" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Foreground="#FF0050EF" FontSize="48.167"/>
         </StackPanel>
 
