@@ -36,10 +36,10 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="Children" />
       <RootProperty Name="Orientation" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="VerticalAlignment" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Viewbox">
       <RootProperty Name="Margin" />
@@ -79,7 +79,9 @@
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
     <RootType FullName="WP_81_CS.Experiments.WebView.index" />
+    <RootType FullName="Windows.UI.Xaml.Controls.WebView" />
     <RootType FullName="WP_81_CS.Experiments.WebView.WebView1" />
+    <RootType FullName="WP_81_CS.Experiments.WebView.WebView2" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="ItemTemplate" />
       <RootEvent Name="SelectionChanged" />

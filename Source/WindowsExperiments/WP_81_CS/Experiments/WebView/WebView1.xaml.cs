@@ -35,7 +35,18 @@ namespace WP_81_CS.Experiments.WebView
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += this.NavigationHelper_LoadState;
             this.navigationHelper.SaveState += this.NavigationHelper_SaveState;
+
+            this.Loaded += WebView1_Loaded;
+
+            
         }
+
+        private void WebView1_Loaded(object sender, RoutedEventArgs e)
+        {
+            string url = "ms-appx-web:///Experiments/WebView/www/index.html";
+            myWebView.Navigate(new Uri(url));
+        }
+
 
         /// <summary>
         /// Gets the <see cref="NavigationHelper"/> associated with this <see cref="Page"/>.

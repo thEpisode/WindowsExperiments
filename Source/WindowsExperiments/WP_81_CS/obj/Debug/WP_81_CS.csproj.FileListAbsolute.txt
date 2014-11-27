@@ -56,3 +56,119 @@ C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP
 C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.cs
 C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xaml
 C:\Users\carodriguez\Documents\Visual Studio 2015\Projects\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\ApplicationInsights.config
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\App.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\index.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\WebView1.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Views\MainPage.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\UI Template\UITemplate.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.xr.xml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.exe
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.pdb
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\resources.pri
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\AppxManifest.xml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.build.appxrecipe
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.winmd
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.csprojResolveAssemblyReference.cache
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.g.i.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.g.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.g.i.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.g.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.g.i.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.g.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.g.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.i.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.xaml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.xaml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.xaml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.xaml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xaml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xbf
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\XamlSaveStateFile.xml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\ApplicationInsights.config
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.exe
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.pdb
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\priconfig.xml
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\priconfig.xml.intermediate
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\layout.resfiles
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\layout.resfiles.intermediate
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\resources.resfiles
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\resources.resfiles.intermediate
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\pri.resfiles
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\pri.resfiles.intermediate
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\qualifiers.txt
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\qualifiers.txt.intermediate
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carodriguez\Documents\Documentos personales\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\ProjectArchitectures.txt
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\ApplicationInsights.config
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\App.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\index.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\WebView1.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Views\MainPage.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\UI Template\UITemplate.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.xr.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.exe
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.pdb
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\resources.pri
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\AppxManifest.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\WP_81_CS.build.appxrecipe
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.winmd
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.winmd
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.pdb
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.csprojResolveAssemblyReference.cache
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.g.i.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.g.i.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.g.i.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.i.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.xaml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.xaml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.xaml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.xaml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xaml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\App.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\index.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView1.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Views\MainPage.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\UI Template\UITemplate.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\XamlSaveStateFile.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\ApplicationInsights.config
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.exe
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\WP_81_CS.pdb
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\priconfig.xml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\priconfig.xml.intermediate
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\layout.resfiles
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\layout.resfiles.intermediate
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\resources.resfiles
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\resources.resfiles.intermediate
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\pri.resfiles
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\pri.resfiles.intermediate
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\qualifiers.txt
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\qualifiers.txt.intermediate
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\ProjectArchitectures.txt
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\www\index.html
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\bin\Debug\Experiments\WebView\WebView2.xbf
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView2.g.i.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView2.g.cs
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView2.xaml
+C:\Users\carodriguez\thEpisode Git\WindowsExperiments\Source\WindowsExperiments\WP_81_CS\obj\Debug\Experiments\WebView\WebView2.xbf

@@ -7,8 +7,11 @@ Assets\WideLogo.scale-240.png
 App.xbf
 Experiments\WebView\index.xbf
 Experiments\WebView\WebView1.xbf
-MainPage.xbf
+Experiments\WebView\WebView2.xbf
 UI Template\UITemplate.xbf
+Views\MainPage.xbf
 WP_81_CS.xr.xml
+Experiments\WebView\www\index.html
+Experiments\WebView\www\segoeuil.ttf
 ApplicationInsights.config
 ApplicationInsights.config
