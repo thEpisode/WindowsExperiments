@@ -40,7 +40,7 @@ namespace WP_81_CS.Controllers
             switch (selectedItem.Id)
             {
                 case 1:
-                    return typeof(WP_81_CS.Experiments.WebView.WebView2);
+                    return typeof(WP_81_CS.Experiments.WebView.WebView3);
                 default:
                     return null;
             }

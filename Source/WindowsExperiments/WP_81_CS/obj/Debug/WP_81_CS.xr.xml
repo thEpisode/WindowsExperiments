@@ -82,6 +82,7 @@
     <RootType FullName="Windows.UI.Xaml.Controls.WebView" />
     <RootType FullName="WP_81_CS.Experiments.WebView.WebView1" />
     <RootType FullName="WP_81_CS.Experiments.WebView.WebView2" />
+    <RootType FullName="WP_81_CS.Experiments.WebView.WebView3" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="ItemTemplate" />
       <RootEvent Name="SelectionChanged" />

@@ -1,12 +1,13 @@
 ﻿<Page
-    x:Class="WP_81_CS.Experiments.WebView.WebView2"
+    x:Class="WP_81_CS.Experiments.WebView.WebView3"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:WP_81_CS.Experiments.WebView"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
-<Page.Background>
+
+    <Page.Background>
         <SolidColorBrush Color="White"/>
     </Page.Background>
 
@@ -27,7 +28,7 @@
         <!-- Title Panel -->
         <StackPanel Grid.Row="0" Margin="19,0,0,0.167">
             <TextBlock Text="WINDOWS EXPERIMENTS" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="#FF1E75BB"/>
-            <TextBlock Text="escenario 2" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Foreground="#FF0050EF" FontSize="48.167"/>
+            <TextBlock Text="scenario 3" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Foreground="#FF0050EF" FontSize="48.167"/>
         </StackPanel>
 
         <!--TODO: Content should be placed within the following grid-->

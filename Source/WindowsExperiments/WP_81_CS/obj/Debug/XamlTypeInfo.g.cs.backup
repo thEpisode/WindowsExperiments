@@ -124,7 +124,7 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[14];
+            _typeNameTable = new string[15];
             _typeNameTable[0] = "Microsoft.ApplicationInsights.TelemetryClient";
             _typeNameTable[1] = "Object";
             _typeNameTable[2] = "Microsoft.ApplicationInsights.DataContracts.TelemetryContext";
@@ -137,10 +137,11 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
             _typeNameTable[9] = "String";
             _typeNameTable[10] = "WP_81_CS.Experiments.WebView.WebView1";
             _typeNameTable[11] = "WP_81_CS.Experiments.WebView.WebView2";
-            _typeNameTable[12] = "WP_81_CS.MainPage";
-            _typeNameTable[13] = "WP_81_CS.UI_Template.UITemplate";
+            _typeNameTable[12] = "WP_81_CS.Experiments.WebView.WebView3";
+            _typeNameTable[13] = "WP_81_CS.MainPage";
+            _typeNameTable[14] = "WP_81_CS.UI_Template.UITemplate";
 
-            _typeTable = new global::System.Type[14];
+            _typeTable = new global::System.Type[15];
             _typeTable[0] = typeof(global::Microsoft.ApplicationInsights.TelemetryClient);
             _typeTable[1] = typeof(global::System.Object);
             _typeTable[2] = typeof(global::Microsoft.ApplicationInsights.DataContracts.TelemetryContext);
@@ -153,8 +154,9 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
             _typeTable[9] = typeof(global::System.String);
             _typeTable[10] = typeof(global::WP_81_CS.Experiments.WebView.WebView1);
             _typeTable[11] = typeof(global::WP_81_CS.Experiments.WebView.WebView2);
-            _typeTable[12] = typeof(global::WP_81_CS.MainPage);
-            _typeTable[13] = typeof(global::WP_81_CS.UI_Template.UITemplate);
+            _typeTable[12] = typeof(global::WP_81_CS.Experiments.WebView.WebView3);
+            _typeTable[13] = typeof(global::WP_81_CS.MainPage);
+            _typeTable[14] = typeof(global::WP_81_CS.UI_Template.UITemplate);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -195,8 +197,9 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
         private object Activate_8_ObservableDictionary() { return new global::WP_81_CS.Common.ObservableDictionary(); }
         private object Activate_10_WebView1() { return new global::WP_81_CS.Experiments.WebView.WebView1(); }
         private object Activate_11_WebView2() { return new global::WP_81_CS.Experiments.WebView.WebView2(); }
-        private object Activate_12_MainPage() { return new global::WP_81_CS.MainPage(); }
-        private object Activate_13_UITemplate() { return new global::WP_81_CS.UI_Template.UITemplate(); }
+        private object Activate_12_WebView3() { return new global::WP_81_CS.Experiments.WebView.WebView3(); }
+        private object Activate_13_MainPage() { return new global::WP_81_CS.MainPage(); }
+        private object Activate_14_UITemplate() { return new global::WP_81_CS.UI_Template.UITemplate(); }
         private void MapAdd_8_ObservableDictionary(object instance, object key, object item)
         {
             var collection = (global::System.Collections.Generic.IDictionary<global::System.String, global::System.Object>)instance;
@@ -290,18 +293,27 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 12:   //  WP_81_CS.MainPage
+            case 12:   //  WP_81_CS.Experiments.WebView.WebView3
                 userType = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_12_MainPage;
+                userType.Activator = Activate_12_WebView3;
                 userType.AddMemberName("NavigationHelper");
                 userType.AddMemberName("DefaultViewModel");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 13:   //  WP_81_CS.UI_Template.UITemplate
+            case 13:   //  WP_81_CS.MainPage
                 userType = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_13_UITemplate;
+                userType.Activator = Activate_13_MainPage;
+                userType.AddMemberName("NavigationHelper");
+                userType.AddMemberName("DefaultViewModel");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 14:   //  WP_81_CS.UI_Template.UITemplate
+                userType = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_14_UITemplate;
                 userType.AddMemberName("NavigationHelper");
                 userType.AddMemberName("DefaultViewModel");
                 userType.SetIsLocalType();
@@ -347,22 +359,32 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
             var that = (global::WP_81_CS.Experiments.WebView.WebView2)instance;
             return that.DefaultViewModel;
         }
-        private object get_7_MainPage_NavigationHelper(object instance)
+        private object get_7_WebView3_NavigationHelper(object instance)
+        {
+            var that = (global::WP_81_CS.Experiments.WebView.WebView3)instance;
+            return that.NavigationHelper;
+        }
+        private object get_8_WebView3_DefaultViewModel(object instance)
+        {
+            var that = (global::WP_81_CS.Experiments.WebView.WebView3)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_9_MainPage_NavigationHelper(object instance)
         {
             var that = (global::WP_81_CS.MainPage)instance;
             return that.NavigationHelper;
         }
-        private object get_8_MainPage_DefaultViewModel(object instance)
+        private object get_10_MainPage_DefaultViewModel(object instance)
         {
             var that = (global::WP_81_CS.MainPage)instance;
             return that.DefaultViewModel;
         }
-        private object get_9_UITemplate_NavigationHelper(object instance)
+        private object get_11_UITemplate_NavigationHelper(object instance)
         {
             var that = (global::WP_81_CS.UI_Template.UITemplate)instance;
             return that.NavigationHelper;
         }
-        private object get_10_UITemplate_DefaultViewModel(object instance)
+        private object get_12_UITemplate_DefaultViewModel(object instance)
         {
             var that = (global::WP_81_CS.UI_Template.UITemplate)instance;
             return that.DefaultViewModel;
@@ -417,28 +439,40 @@ namespace WP_81_CS.WP_81_CS_XamlTypeInfo
                 xamlMember.Getter = get_6_WebView2_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
+            case "WP_81_CS.Experiments.WebView.WebView3.NavigationHelper":
+                userType = (global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType)GetXamlTypeByName("WP_81_CS.Experiments.WebView.WebView3");
+                xamlMember = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlMember(this, "NavigationHelper", "WP_81_CS.Common.NavigationHelper");
+                xamlMember.Getter = get_7_WebView3_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "WP_81_CS.Experiments.WebView.WebView3.DefaultViewModel":
+                userType = (global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType)GetXamlTypeByName("WP_81_CS.Experiments.WebView.WebView3");
+                xamlMember = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "WP_81_CS.Common.ObservableDictionary");
+                xamlMember.Getter = get_8_WebView3_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
             case "WP_81_CS.MainPage.NavigationHelper":
                 userType = (global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType)GetXamlTypeByName("WP_81_CS.MainPage");
                 xamlMember = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlMember(this, "NavigationHelper", "WP_81_CS.Common.NavigationHelper");
-                xamlMember.Getter = get_7_MainPage_NavigationHelper;
+                xamlMember.Getter = get_9_MainPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "WP_81_CS.MainPage.DefaultViewModel":
                 userType = (global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType)GetXamlTypeByName("WP_81_CS.MainPage");
                 xamlMember = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "WP_81_CS.Common.ObservableDictionary");
-                xamlMember.Getter = get_8_MainPage_DefaultViewModel;
+                xamlMember.Getter = get_10_MainPage_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "WP_81_CS.UI_Template.UITemplate.NavigationHelper":
                 userType = (global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType)GetXamlTypeByName("WP_81_CS.UI_Template.UITemplate");
                 xamlMember = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlMember(this, "NavigationHelper", "WP_81_CS.Common.NavigationHelper");
-                xamlMember.Getter = get_9_UITemplate_NavigationHelper;
+                xamlMember.Getter = get_11_UITemplate_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "WP_81_CS.UI_Template.UITemplate.DefaultViewModel":
                 userType = (global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlUserType)GetXamlTypeByName("WP_81_CS.UI_Template.UITemplate");
                 xamlMember = new global::WP_81_CS.WP_81_CS_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "WP_81_CS.Common.ObservableDictionary");
-                xamlMember.Getter = get_10_UITemplate_DefaultViewModel;
+                xamlMember.Getter = get_12_UITemplate_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             }

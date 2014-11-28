@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title></title>
+    <style>
+        @font-face {
+            font-family: 'Segoe UI';
+            src: url(segoeuil.ttf);
+        }
+        html{
+            font-family:'Segoe UI', Arial, sans-serif;
+        }
+        h1{
+            color: #0050EF;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+    <h1>Scripts</h1>
+    <p>Write your age: </p>
+    <input type="number" id="ageInput" name="ageInput" value="" min="18" max="120" placeholder="> 18" />
+    <input type="button" id="send2App" name="send2App" value="Verify passport" />
+    <br />
+    <p></p>
+    <script>
+        /// Function used for showing the text returned from app
+        function ShowResult(data) {
+            $("p:eq(1)").text(data);
+        }
+
+        /// Event Handler used for click event in Button
+        $("#send2App").on("click", function () {
+            var age = $("#ageInput").val();
+            window.external.notify(age);
+        });
+    </script>
+</body>
+</html>
