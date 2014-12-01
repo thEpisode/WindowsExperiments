@@ -83,6 +83,18 @@
     <RootType FullName="WP_81_CS.Experiments.WebView.WebView1" />
     <RootType FullName="WP_81_CS.Experiments.WebView.WebView2" />
     <RootType FullName="WP_81_CS.Experiments.WebView.WebView3" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.NullExtension" />
+    <RootType FullName="WP_81_CS.Experiments.WebView.WebView4" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="ItemTemplate" />
       <RootEvent Name="SelectionChanged" />

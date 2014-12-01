@@ -83,6 +83,9 @@
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
     <None Include="ApplicationInsights.config" />
+    <Content Include="Experiments\WebView\www\interface.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Experiments\WebView\www\scripts.html" />
     <Content Include="Experiments\WebView\www\segoeuil.ttf" />
     <None Include="packages.config" />
@@ -107,6 +110,9 @@
     </Compile>
     <Compile Include="Experiments\WebView\WebView3.xaml.cs">
       <DependentUpon>WebView3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Experiments\WebView\WebView4.xaml.cs">
+      <DependentUpon>WebView4.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\MenuItem.cs" />
     <Compile Include="Views\MainPage.xaml.cs">
@@ -164,6 +170,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Experiments\WebView\WebView3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Experiments\WebView\WebView4.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
